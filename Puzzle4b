@@ -1,0 +1,6 @@
+public class Puzzle4{
+  public static void main(String[] args){
+    puzzle4b [] obs = new puzzle4b[6];
+    
+  }
+}
